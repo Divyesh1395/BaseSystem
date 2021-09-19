@@ -1,3 +1,6 @@
+
+package differentbases;
+
 import java.util.Scanner;
 import java.lang.Math;
 
@@ -9,7 +12,7 @@ import java.lang.Math;
  * @author DIVYESH
  */
 
-public class BaseSystem {
+public class DifferentBases {
     
     static int addSequence(int[] seq){
         int sum = 0;
