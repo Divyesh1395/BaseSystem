@@ -106,7 +106,6 @@ public class DifferentBases {
             }
             catch(java.util.InputMismatchException e){
                 System.out.println("------Only numbers allowed------");
-                continue;
             }
         }
         
