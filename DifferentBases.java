@@ -1,5 +1,3 @@
-package differentbases;
-
 import java.util.Scanner;
 
 /**
